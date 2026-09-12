@@ -20,3 +20,5 @@ reviewed pull request.
 - `main` is protected and always releasable.
 - Do your work on a branch, then open a pull request.
 - A teammate reviews before anything merges.
+
+Maintained by the Paystream platform team.
